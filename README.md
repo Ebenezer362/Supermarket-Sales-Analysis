@@ -2,7 +2,7 @@
 ## Over view
 This  report is to provide essential insights into sales trends, customer purchasing behavior, and store performance of Supermarket  from January 2019 to March 2019. By analyzing revenue, profit, payment methods, and product performance, stakeholders can make data-driven decisions to optimize operations and marketing strategies.
 ## Data Source 
-The data for this analysis was sourced from Kaggle via the link : Kaggle - Supermarket Sales 
+The data for this analysis was sourced from Kaggle via the link : https://www.kaggle.com/datasets/kyanyoga/sample-sales-data
 ## Tools Used
 -Power bi
 -Measures and functions
