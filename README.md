@@ -4,9 +4,11 @@ This  report is to provide essential insights into sales trends, customer purcha
 ## Data Source 
 The data for this analysis was sourced from Kaggle via the link : https://www.kaggle.com/datasets/kyanyoga/sample-sales-data
 ## Tools Used
--Power bi
--Measures and functions
--Charts  for Visualization
+- Power bi
+  
+- Measures and functions
+  
+- Charts  for Visualization
 
 ## Data Cleaning
 In the same worksheet, I created a new column for all the month from the date and removed all the duplicate, I changed all the data type their type to their actual data type( for instance date wasn’t in date format I needed to change it). In power bi I created  some new measures to work with. Some of the new measures are Revenue by product, Average Rating, count of payment method.
